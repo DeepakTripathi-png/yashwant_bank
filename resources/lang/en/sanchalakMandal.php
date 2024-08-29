@@ -1,0 +1,25 @@
+<?php
+return [
+    'home' => 'Home',
+    'heading' => 'Board of Directors',
+    'table_heading_1' => 'S.No.',
+    'table_heading_2' => 'Name',
+    'table_heading_3' => 'Position',
+    'members' => [
+        ['serial' => '1', 'name' => 'Mr. Suhas Bapurao Pachpute', 'position' => 'Chairman'],
+        ['serial' => '2', 'name' => 'Mr. Suryabhan Ganpatrao Patil', 'position' => 'Vice Chairman'],
+        ['serial' => '3', 'name' => 'Mr. Rajendra Krishnath Kolge', 'position' => 'Director'],
+        ['serial' => '4', 'name' => 'Mr. Vasantarav Gunvantrav Patil', 'position' => 'Director'],
+        ['serial' => '5', 'name' => 'Mr. Rajkumar Bhaurav Jadhav', 'position' => 'Director'],
+        ['serial' => '6', 'name' => 'Mr. Dharmaraj Baburao Tanduljekar (Kamble)', 'position' => 'Director'],
+        ['serial' => '7', 'name' => 'Mr. Vishnupant Pandharinath Sathe', 'position' => 'Director'],
+        ['serial' => '8', 'name' => 'Mr. Sunil Narayanrao Shinde', 'position' => 'Director'],
+        ['serial' => '9', 'name' => 'Mr. Rahul Rajendra Vihire', 'position' => 'Director'],
+        ['serial' => '10', 'name' => 'Mr. Chandrakant Prabhu Salunke', 'position' => 'Director'],
+        ['serial' => '11', 'name' => 'Mr. Suresh Maruti Rathod', 'position' => 'Director'],
+        ['serial' => '12', 'name' => 'Mrs. Aadimaya Uday Gaware', 'position' => 'Director'],
+        ['serial' => '13', 'name' => 'Mrs. Sujata Bhalchandra Kadam', 'position' => 'Director'],
+        ['serial' => '14', 'name' => 'Mr. Sunil Baburao Mane', 'position' => 'Expert Director'],
+        ['serial' => '15', 'name' => 'Mr. Rajgopal Ranglalji Mundada', 'position' => 'Expert Director'],
+    ],
+];
